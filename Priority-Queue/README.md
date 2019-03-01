@@ -1,0 +1,10 @@
+# Hospital-Priority-Queue
+A hospital emergency service implementation for patients according to their priority
+
+RED 1ST PRIORITY DEGREE 
+
+YELLOW 2ND PRIORITY DEGREE
+
+GREEN 3RD PRIORITY DEGREE
+
+CREATING A SYNCRONIZATION ACCORDING TO THEIR ARRIVING TIME AND TREATMENT TIME

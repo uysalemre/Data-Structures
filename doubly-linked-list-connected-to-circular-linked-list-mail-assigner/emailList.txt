@@ -1,0 +1,162 @@
+		------ITU EMAIL CREATION PROGRAM FOR NEW STUDENTS------
+			------ORDERED DESCENDING Z TO A------
+Zaptiye
+__________________
+ -> ZaptiyeU@itu.edu.tr -> Ugur -> Zaptiye
+ -> ZaptiyeP@itu.edu.tr -> Paksoy -> Zaptiye
+ -> ZaptiyeO@itu.edu.tr -> Oktay -> Zaptiye
+ -> ZaptiyeG@itu.edu.tr -> Gamze -> Zaptiye
+ -> Zaptiye@itu.edu.tr -> Esim -> Zaptiye
+____________________________________________________________
+Zagli
+__________________
+ -> ZagliYe@itu.edu.tr -> Yeliz -> Zagli
+ -> ZagliY@itu.edu.tr -> Yaprak -> Zagli
+ -> ZagliK@itu.edu.tr -> Kerime -> Zagli
+ -> Zagli@itu.edu.tr -> Ecem -> Zagli
+____________________________________________________________
+Yolcu
+__________________
+ -> YolcuV@itu.edu.tr -> Vedia -> Yolcu
+ -> Yolcu@itu.edu.tr -> Rana -> Yolcu
+____________________________________________________________
+Yardimci
+__________________
+ -> YardimciU@itu.edu.tr -> Uras -> Yardimci
+ -> YardimciR@itu.edu.tr -> Rima -> Yardimci
+ -> YardimciK@itu.edu.tr -> Kerim -> Yardimci
+ -> YardimciI@itu.edu.tr -> Ilgaz -> Yardimci
+ -> YardimciS@itu.edu.tr -> Sena -> Yardimci
+ -> YardimciF@itu.edu.tr -> Feray -> Yardimci
+ -> YardimciB@itu.edu.tr -> Bahar -> Yardimci
+ -> Yardimci@itu.edu.tr -> Furkan -> Yardimci
+____________________________________________________________
+Tezmen
+__________________
+ -> TezmenY@itu.edu.tr -> Yasemin -> Tezmen
+ -> TezmenSe@itu.edu.tr -> Serra -> Tezmen
+ -> TezmenS@itu.edu.tr -> Sabiha -> Tezmen
+ -> TezmenR@itu.edu.tr -> Raif -> Tezmen
+ -> TezmenJ@itu.edu.tr -> Jiyan -> Tezmen
+ -> TezmenH@itu.edu.tr -> Hasan -> Tezmen
+ -> TezmenEf@itu.edu.tr -> Efecan -> Tezmen
+ -> TezmenE@itu.edu.tr -> Edis -> Tezmen
+ -> Tezmen@itu.edu.tr -> Ceyhun -> Tezmen
+____________________________________________________________
+Tanrikulu
+__________________
+ -> TanrikuluM@itu.edu.tr -> Muhammed -> Tanrikulu
+ -> TanrikuluK@itu.edu.tr -> Kubilay -> Tanrikulu
+ -> Tanrikulu@itu.edu.tr -> Iraz -> Tanrikulu
+____________________________________________________________
+Seyfi
+__________________
+ -> SeyfiPe@itu.edu.tr -> Pertev -> Seyfi
+ -> Seyfi@itu.edu.tr -> Polat -> Seyfi
+____________________________________________________________
+Sevkin
+__________________
+ -> SevkinT@itu.edu.tr -> Tayyip -> Sevkin
+ -> SevkinS@itu.edu.tr -> Selcen -> Sevkin
+ -> SevkinO@itu.edu.tr -> Okbay -> Sevkin
+ -> SevkinL@itu.edu.tr -> Latife -> Sevkin
+ -> SevkinH@itu.edu.tr -> Hatice -> Sevkin
+ -> SevkinG@itu.edu.tr -> Gelincik -> Sevkin
+ -> SevkinE@itu.edu.tr -> Eser -> Sevkin
+ -> Sevkin@itu.edu.tr -> Aylin -> Sevkin
+____________________________________________________________
+Sevcan
+__________________
+ -> SevcanC@itu.edu.tr -> Cafer -> Sevcan
+ -> SevcanN@itu.edu.tr -> Nurfer -> Sevcan
+ -> Sevcan@itu.edu.tr -> Fahir -> Sevcan
+____________________________________________________________
+Serifoglu
+__________________
+ -> SerifogluZ@itu.edu.tr -> Zahide -> Serifoglu
+ -> SerifogluV@itu.edu.tr -> Vahide -> Serifoglu
+ -> SerifogluS@itu.edu.tr -> Samet -> Serifoglu
+ -> SerifogluN@itu.edu.tr -> Nedim -> Serifoglu
+ -> SerifogluHu@itu.edu.tr -> Hulki -> Serifoglu
+ -> SerifogluHal@itu.edu.tr -> Haluk -> Serifoglu
+ -> SerifogluH@itu.edu.tr -> Hatice -> Serifoglu
+ -> SerifogluB@itu.edu.tr -> Buket -> Serifoglu
+ -> Serifoglu@itu.edu.tr -> Mehdi -> Serifoglu
+____________________________________________________________
+Orhan
+__________________
+ -> OrhanN@itu.edu.tr -> Numan -> Orhan
+ -> OrhanI@itu.edu.tr -> Irmak -> Orhan
+ -> OrhanC@itu.edu.tr -> Cem -> Orhan
+ -> Orhan@itu.edu.tr -> Alper -> Orhan
+____________________________________________________________
+Ocar
+__________________
+ -> OcarC@itu.edu.tr -> Canberk -> Ocar
+ -> OcarP@itu.edu.tr -> Perker -> Ocar
+ -> Ocar@itu.edu.tr -> Doktora -> Ocar
+____________________________________________________________
+Findik
+__________________
+ -> FindikO@itu.edu.tr -> Okan -> Findik
+ -> FindikN@itu.edu.tr -> Nugaye -> Findik
+ -> FindikKu@itu.edu.tr -> Kubat -> Findik
+ -> FindikK@itu.edu.tr -> Kemal -> Findik
+ -> FindikH@itu.edu.tr -> Halim -> Findik
+ -> FindikF@itu.edu.tr -> Fethullah -> Findik
+ -> Findik@itu.edu.tr -> Bedia -> Findik
+____________________________________________________________
+Fatin
+__________________
+ -> FatinA@itu.edu.tr -> Atahan -> Fatin
+ -> FatinV@itu.edu.tr -> Velit -> Fatin
+ -> Fatin@itu.edu.tr -> Mustafa -> Fatin
+____________________________________________________________
+Esgin
+__________________
+ -> EsginY@itu.edu.tr -> Yakup -> Esgin
+ -> EsginO@itu.edu.tr -> Osman -> Esgin
+ -> EsginD@itu.edu.tr -> Dilay -> Esgin
+ -> EsginH@itu.edu.tr -> Hazar -> Esgin
+ -> EsginBeh@itu.edu.tr -> Behin -> Esgin
+ -> Esgin@itu.edu.tr -> Bedriye -> Esgin
+____________________________________________________________
+Egin
+__________________
+ -> EginT@itu.edu.tr -> Taylan -> Egin
+ -> Egin@itu.edu.tr -> Lale -> Egin
+____________________________________________________________
+Dincturk
+__________________
+ -> DincturkC@itu.edu.tr -> Candan -> Dincturk
+ -> DincturkT@itu.edu.tr -> Talya -> Dincturk
+ -> DincturkR@itu.edu.tr -> Ramazan -> Dincturk
+ -> DincturkM@itu.edu.tr -> Mehmet -> Dincturk
+ -> DincturkL@itu.edu.tr -> Latif -> Dincturk
+ -> Dincturk@itu.edu.tr -> Ozan -> Dincturk
+____________________________________________________________
+Deliloglu
+__________________
+ -> DelilogluC@itu.edu.tr -> Can -> Deliloglu
+ -> DelilogluY@itu.edu.tr -> Yasemin -> Deliloglu
+ -> DelilogluU@itu.edu.tr -> Uzel -> Deliloglu
+ -> DelilogluT@itu.edu.tr -> Tunahan -> Deliloglu
+ -> DelilogluS@itu.edu.tr -> Sena -> Deliloglu
+ -> DelilogluN@itu.edu.tr -> Naci -> Deliloglu
+ -> Deliloglu@itu.edu.tr -> Caner -> Deliloglu
+____________________________________________________________
+Ciddi
+__________________
+ -> CiddiZeynep1@itu.edu.tr -> Zeynep -> Ciddi
+ -> CiddiZeynep@itu.edu.tr -> Zeynep -> Ciddi
+ -> CiddiZ@itu.edu.tr -> Zeynep -> Ciddi
+ -> CiddiP@itu.edu.tr -> Paker -> Ciddi
+ -> CiddiL@itu.edu.tr -> Lerzan -> Ciddi
+ -> CiddiG@itu.edu.tr -> Gediz -> Ciddi
+ -> Ciddi@itu.edu.tr -> Demircan -> Ciddi
+____________________________________________________________
+Cansu
+__________________
+ -> CansuM@itu.edu.tr -> Mihrinaz -> Cansu
+ -> Cansu@itu.edu.tr -> Ferdacan -> Cansu
+____________________________________________________________
